@@ -1,0 +1,37 @@
+
+pre {
+    font-size: 12px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #000000;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 220px;
+}
+
+.title2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.viewport {
+    width: 48em;
+    padding: 0.75em;
+    background-image: linear-gradient(to bottom right, red, orange);}
+
+.outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
